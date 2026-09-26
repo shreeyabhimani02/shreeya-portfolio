@@ -277,7 +277,7 @@ function HeroSection() {
           <button className="cta-btn" style={{ ...inter, background: C.coral, color: "#fff", fontWeight: 600, fontSize: 16, padding: "14px 28px", borderRadius: 12, border: "none", cursor: "pointer" }} onClick={() => scrollTo("projects")}>
             See my work →
           </button>
-          <a href="/resume.pdf" style={{ ...inter, color: C.charcoal2, fontWeight: 600, fontSize: 16, padding: "13px 28px", borderRadius: 12, border: `1.5px solid ${C.border}`, background: "rgba(255,255,255,0.7)", textDecoration: "none" }}>
+          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
             Resume
           </a>
         </div>
