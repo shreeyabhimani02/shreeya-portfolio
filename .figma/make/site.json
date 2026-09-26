@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a software engineer's projects and skills with a clean, mobile-first design that highlights problem-solving and professional impact.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
